@@ -35,9 +35,7 @@ export default {
           env,
           chatId,
           `🌟 Hello ${msg.from?.first_name || ""}
-
-🛑 ইনভেস্ট ছাড়াই সম্পূর্ণ ফ্রি তে কাজ করতে চান?
-তাহলে এখনই নিচের ইনকাম শুরু করুন বাটনে ক্লিক করুন।
+নিচের ইনকাম শুরু করুন বাটনে ক্লিক করুন।
 
 🖲️ নিচের বাটনে ক্লিক করুন 👇👇👇👇`
         );
@@ -318,7 +316,7 @@ async function sendMessage(
 
                   web_app: {
                     url:
-                      "https://takardorja.pages.dev"
+                      "https://zomatoplatform.pages.dev"
                   }
                 }
               ]
